@@ -1,0 +1,15 @@
+{
+	"ID": "b781fae948404f14ee18aea4e2311983",
+	"TypeName": "FlaxEditor.Content.Settings.iOSPlatformSettings",
+	"EngineBuild": 6915,
+	"Data": {
+	"AppTeamId": null,
+	"AppVersion": "1",
+	"ExportMethod": 1,
+	"TexturesQuality": 2,
+	"SupportedInterfaceOrientationsiPhone": 15,
+	"SupportedInterfaceOrientationsiPad": 15,
+	"AppIdentifier": "com.${COMPANY_NAME}.${PROJECT_NAME}",
+	"OverrideIcon": null
+}
+}

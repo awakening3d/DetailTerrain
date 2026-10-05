@@ -1,0 +1,14 @@
+{
+	"ID": "054914b84b7082090f869096a2df199f",
+	"TypeName": "FlaxEditor.Content.Settings.TimeSettings",
+	"EngineBuild": 6915,
+	"Data": {
+	"UpdateFPS": 60.0,
+	"PhysicsFPS": 60.0,
+	"DrawFPS": 60.0,
+	"TimeScale": 1.0,
+	"MaxUpdateDeltaTime": 0.1,
+	"UnfocusedMaxFPS": 30.0,
+	"UnfocusedPause": false
+}
+}

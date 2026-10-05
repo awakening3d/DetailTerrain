@@ -1,0 +1,1 @@
+First extract Content\SceneData\Scene\Terrain.rar before open project.
